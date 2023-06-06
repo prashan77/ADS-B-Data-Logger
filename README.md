@@ -4,6 +4,7 @@ This repo is for to log the ADS-B data using python into a csv file. You need to
 The piaware decodes the ADS-B data and stores it in a json format. The Python script reads the json file and store it to a
 csv file. The bash script is there to run the python script every second. 
 
+# [Project Link](https://ianasaepscor.engineering.iastate.edu/uas-auto-landing/data-collection-box/)
 
 
 ## Helpful link: 
